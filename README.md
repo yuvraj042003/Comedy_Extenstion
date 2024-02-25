@@ -1,6 +1,6 @@
 ![extion](https://github.com/yuvraj042003/Comedy_Extenstion/assets/81462095/31cd57d6-74a2-43e0-9ed3-a89698d56ac3)
 ![com](https://github.com/yuvraj042003/Comedy_Extenstion/assets/81462095/d7606989-2663-442e-9892-bc31354e36d0)
-![3aa](https://github.com/yuvraj042003/Comedy_Extenstion/assets/81462095/c26f4df6-c1db-4a73-b3a4-2d905187045f)
+
 <h1>Funny Extension</h1>
 <h3>Description</h3>
 <p></p>The Funny Extension is a Chrome extension that brings humor to your browsing experience by displaying random jokes whenever you click on its icon in the browser toolbar.</p>
