@@ -2,6 +2,7 @@
   "name": "Jokes Ext.",
   "version": "0.0.1",
   "manifest_version": 3,
+  "description": "The Funny Extension is your ticket to a browser experience filled with laughter and lightheartedness! Designed to inject humor into your daily browsing routine, this Chrome extension delivers a delightful selection of random jokes with just a click of a button. Powered by the \"icanhazdadjoke\" API, it ensures a steady stream of witty one-liners, puns, and dad jokes to brighten up your day. Whether you're taking a break from work, relaxing at home, or simply in need of a giggle, the Funny Extension is your go-to companion.",
   "action": {
     "default_popup": "popup.html"
   },
