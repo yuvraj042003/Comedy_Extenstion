@@ -1,4 +1,6 @@
-<b>Funny Extension</b>
+![com](https://github.com/yuvraj042003/Comedy_Extenstion/assets/81462095/d7606989-2663-442e-9892-bc31354e36d0)
+![3aa](https://github.com/yuvraj042003/Comedy_Extenstion/assets/81462095/c26f4df6-c1db-4a73-b3a4-2d905187045f)
+<h1>Funny Extension</h1>
 <h3>Description</h3>
 <p></p>The Funny Extension is a Chrome extension that brings humor to your browsing experience by displaying random jokes whenever you click on its icon in the browser toolbar.</p>
 
@@ -26,5 +28,4 @@ For any questions, feedback, or issues regarding the Funny Extension, please ope
 
 <h3>Credits</h3>
 The Funny Extension utilizes the icanhazdadjoke API to fetch random jokes.
-![com](https://github.com/yuvraj042003/Comedy_Extenstion/assets/81462095/d7606989-2663-442e-9892-bc31354e36d0)
-![3aa](https://github.com/yuvraj042003/Comedy_Extenstion/assets/81462095/c26f4df6-c1db-4a73-b3a4-2d905187045f)
+
